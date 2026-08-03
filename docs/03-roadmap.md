@@ -13,3 +13,8 @@
 - [x] masuk ke stage file
 - [x] membuat commit pertama
 - [x] mempublish ke github file yang di bikin
+## day 3
+- [x] ngedownload flutter
+- [x] bikin dan ngeperbaruin path flutter di vs code
+- [x] ngebikin desaign bible
+- [x] ngebikin web gabut ah (walaupun masih template flutter) 
