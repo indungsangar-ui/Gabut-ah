@@ -18,3 +18,8 @@
 - [x] bikin dan ngeperbaruin path flutter di vs code
 - [x] ngebikin desaign bible
 - [x] ngebikin web gabut ah (walaupun masih template flutter) 
+## day 4
+- [x] menghapus template flutter
+- [x] membuat struktur folder
+- [x] ngbuat theme
+- [x] ngebuat home page
