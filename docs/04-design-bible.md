@@ -56,3 +56,6 @@ kami percaya kalau beberapa menit yang menyenangkan dapat membuat hari-hari sese
 ## 8. future direction
 gabut ah ini bukan cuma aplikasi funfact mas. kita mau aplikasi ini suatu hari nanti jadi tempat kecil yang selalu punya sesuatu buat gilangin rasa bosan.
 mau dari funfact, quiz, mini game, polling, atau fitur-fitur yang belum kepikiran sampe sekarang.
+## 9. hubungan dengan pengguna
+kita gabut a berkembang bersama penggunanya
+kita ngga ngejar uang make iklan, kita bakal ngebangun hubungan yang ngebikin orang balik ke aplikasi kita arena mereka nyaman, di dengar, dan menjadi bagian dari pengembang aplikasi.
