@@ -26,3 +26,8 @@
 - [x] ngebikin header jadi widget
 - [x] ngebikin funfact card jdi widget
 - [x] semu widget berhasil di tampilkan di widget
+## day 5
+- [x] buat model
+- [x] buat daftar fakta
+- [x] hubungin ke card
+- [x] bikin tombol "lagi dong"

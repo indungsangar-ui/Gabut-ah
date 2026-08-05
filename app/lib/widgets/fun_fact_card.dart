@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import '../models/fun_fact.dart';
 
 class FunFactCard extends StatelessWidget {
-  const FunFactCard({super.key});
+  final FunFact funFact;
+
+  const FunFactCard({
+    super.key,
+    required this.funFact,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -10,33 +16,33 @@ class FunFactCard extends StatelessWidget {
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(20),
       ),
-      child: const Padding(
-        padding: EdgeInsets.all(20),
+      child: Padding(
+        padding: const EdgeInsets.all(20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "🎲 Fakta Hari Ini",
-              style: TextStyle(
+              funFact.title,
+              style: const TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
               ),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
 
             Center(
               child: Text(
-                "🐙",
-                style: TextStyle(fontSize: 60),
+               funFact.emoji,
+               style: const TextStyle(fontSize: 60),
               ),
             ),
 
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
 
             Text(
-              "Gurita memiliki 3 jantung.",
-              style: TextStyle(
-                fontSize: 22,
+              funFact.description,
+              style: const TextStyle(
+                fontSize: 22
               ),
             ),
           ],
