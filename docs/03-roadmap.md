@@ -23,3 +23,6 @@
 - [x] membuat struktur folder
 - [x] ngbuat theme
 - [x] ngebuat home page
+- [x] ngebikin header jadi widget
+- [x] ngebikin funfact card jdi widget
+- [x] semu widget berhasil di tampilkan di widget
